@@ -9,3 +9,405 @@
 2020-01-02 10:29:31,716 Error type: bad_password
 2020-01-02 10:29:31,718 Username or password is incorrect.
 2020-01-02 10:29:31,719 Not logged in!
+2021-08-31 01:24:30,088 Instabot Started
+2021-08-31 01:24:32,812 Logged-in successfully as 'cleavitt417'!
+2021-08-31 01:48:06,356 Instabot Started
+2021-08-31 01:48:06,684 Request returns 400 error!
+2021-08-31 01:48:06,685 Instagram's error message: Invalid Parameters
+2021-08-31 01:48:06,685 Error type: missing_parameters
+2021-08-31 01:48:06,685 Username or password is incorrect.
+2021-08-31 01:48:06,685 Not logged in!
+2021-08-31 01:50:50,339 Instabot Started
+2021-08-31 01:50:52,661 Logged-in successfully as 'cleavitt417'!
+2021-08-31 01:50:53,639 Bot stopped. Worked: 0:26:23.551255
+2021-08-31 01:50:53,640 Total follows: 20/3840
+2021-08-31 01:50:53,640 Total requests: 178
+2021-08-31 01:53:55,738 Instabot Started
+2021-08-31 01:53:57,880 Logged-in successfully as 'cleavitt417'!
+2021-08-31 02:15:08,381 Bot stopped. Worked: 0:50:38.293159
+2021-08-31 02:15:08,381 Total follows: 41/3840
+2021-08-31 02:15:08,381 Total requests: 305
+2021-08-31 02:16:22,575 Instabot Started
+2021-08-31 02:16:22,842 Request returns 400 error!
+2021-08-31 02:16:22,842 Instagram's error message: Invalid Parameters
+2021-08-31 02:16:22,842 Error type: missing_parameters
+2021-08-31 02:16:22,843 Username or password is incorrect.
+2021-08-31 02:16:22,843 Not logged in!
+2021-08-31 02:16:47,945 Instabot Started
+2021-08-31 02:16:50,120 Logged-in successfully as 'cleavitt417'!
+2021-08-31 02:16:53,318 Going to unfollow 94 users.
+2021-09-01 01:28:55,402 Instabot Started
+2021-09-01 01:28:57,454 Logged-in successfully as 'cleavitt417'!
+2021-09-01 01:44:57,388 Request returns 400 error!
+2021-09-01 01:44:57,388 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 01:45:33,162 Request returns 400 error!
+2021-09-01 01:45:33,163 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 01:55:07,660 Instabot Started
+2021-09-01 01:55:10,317 Logged-in successfully as 'cleavitt417'!
+2021-09-01 01:55:15,356 Bot stopped. Worked: 1 day, 0:30:45.268034
+2021-09-01 01:55:15,356 Total follows: 41/3840
+2021-09-01 01:55:15,357 Total requests: 325
+2021-09-01 01:56:39,785 Instabot Started
+2021-09-01 01:56:41,423 Logged-in successfully as 'cleavitt417'!
+2021-09-01 02:02:12,721 Request returns 400 error!
+2021-09-01 02:02:12,721 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:03:09,937 Request returns 400 error!
+2021-09-01 02:03:09,938 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:03:32,581 Request returns 400 error!
+2021-09-01 02:03:32,581 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:04:57,203 Request returns 400 error!
+2021-09-01 02:04:57,203 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:05:58,383 Request returns 400 error!
+2021-09-01 02:05:58,383 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:06:47,075 Request returns 400 error!
+2021-09-01 02:06:47,076 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:08:02,307 Request returns 400 error!
+2021-09-01 02:08:02,308 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:09:28,468 Request returns 400 error!
+2021-09-01 02:09:28,468 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:11:31,774 Request returns 400 error!
+2021-09-01 02:11:31,774 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:12:34,083 Request returns 400 error!
+2021-09-01 02:12:34,083 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:13:08,066 Request returns 400 error!
+2021-09-01 02:13:08,067 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:13:21,400 Request returns 400 error!
+2021-09-01 02:13:21,401 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:13:44,504 Request returns 400 error!
+2021-09-01 02:13:44,505 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:14:21,899 Request returns 400 error!
+2021-09-01 02:14:21,899 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:15:38,487 Request returns 400 error!
+2021-09-01 02:15:38,487 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:16:03,744 Request returns 400 error!
+2021-09-01 02:16:03,745 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:17:12,142 Request returns 400 error!
+2021-09-01 02:17:12,143 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:17:57,625 Request returns 400 error!
+2021-09-01 02:17:57,625 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:18:24,794 Request returns 400 error!
+2021-09-01 02:18:24,794 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:18:50,059 Request returns 400 error!
+2021-09-01 02:18:50,060 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:19:51,715 Request returns 400 error!
+2021-09-01 02:19:51,715 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:20:20,679 Request returns 400 error!
+2021-09-01 02:20:20,679 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:23:07,893 Request returns 400 error!
+2021-09-01 02:23:07,894 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:23:59,510 Request returns 400 error!
+2021-09-01 02:23:59,511 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:25:05,427 Request returns 400 error!
+2021-09-01 02:25:05,427 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:25:55,772 Request returns 400 error!
+2021-09-01 02:25:55,773 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:26:20,159 Request returns 400 error!
+2021-09-01 02:26:20,160 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:27:29,933 Request returns 400 error!
+2021-09-01 02:27:29,933 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:27:52,694 Request returns 400 error!
+2021-09-01 02:27:52,695 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:28:13,482 Request returns 400 error!
+2021-09-01 02:28:13,483 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:28:55,309 Request returns 400 error!
+2021-09-01 02:28:55,309 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:29:24,431 Request returns 400 error!
+2021-09-01 02:29:24,432 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:30:03,574 Request returns 400 error!
+2021-09-01 02:30:03,575 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:30:32,684 Request returns 400 error!
+2021-09-01 02:30:32,684 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:31:01,964 Request returns 400 error!
+2021-09-01 02:31:01,964 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:31:31,496 Request returns 400 error!
+2021-09-01 02:31:31,496 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:32:32,824 Request returns 400 error!
+2021-09-01 02:32:32,824 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:33:26,253 Request returns 400 error!
+2021-09-01 02:33:26,254 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:34:01,973 Request returns 400 error!
+2021-09-01 02:34:01,974 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:34:31,641 Request returns 400 error!
+2021-09-01 02:34:31,641 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:34:56,501 Request returns 400 error!
+2021-09-01 02:34:56,501 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:35:25,220 Request returns 400 error!
+2021-09-01 02:35:25,227 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:35:58,690 Request returns 400 error!
+2021-09-01 02:35:58,691 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:36:24,835 Request returns 400 error!
+2021-09-01 02:36:24,836 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:37:27,277 Request returns 400 error!
+2021-09-01 02:37:27,277 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:37:57,830 Request returns 400 error!
+2021-09-01 02:37:57,830 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:38:25,680 Request returns 400 error!
+2021-09-01 02:38:25,681 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:39:36,087 Request returns 400 error!
+2021-09-01 02:39:36,088 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:40:05,955 Request returns 400 error!
+2021-09-01 02:40:05,955 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:40:49,446 Request returns 400 error!
+2021-09-01 02:40:49,446 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:41:31,915 Request returns 400 error!
+2021-09-01 02:41:31,916 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:42:36,077 Request returns 400 error!
+2021-09-01 02:42:36,078 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:43:00,535 Request returns 400 error!
+2021-09-01 02:43:00,535 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:43:25,796 Request returns 400 error!
+2021-09-01 02:43:25,796 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:45:14,309 Request returns 400 error!
+2021-09-01 02:45:14,309 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:45:40,340 Request returns 400 error!
+2021-09-01 02:45:40,341 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:46:40,584 Request returns 400 error!
+2021-09-01 02:46:40,585 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:47:12,251 Request returns 400 error!
+2021-09-01 02:47:12,252 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:48:01,037 Request returns 400 error!
+2021-09-01 02:48:01,037 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:48:30,063 Request returns 400 error!
+2021-09-01 02:48:30,063 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:49:34,460 Request returns 400 error!
+2021-09-01 02:49:34,460 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:50:12,840 Request returns 500 error!
+2021-09-01 02:50:12,841 Error checking for `feedback_required`, response text is not JSON
+2021-09-01 02:51:05,603 Request returns 400 error!
+2021-09-01 02:51:05,604 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:51:27,214 Request returns 400 error!
+2021-09-01 02:51:27,215 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:52:30,018 Request returns 400 error!
+2021-09-01 02:52:30,018 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:52:49,974 Request returns 400 error!
+2021-09-01 02:52:49,974 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:53:12,401 Request returns 400 error!
+2021-09-01 02:53:12,402 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:53:41,850 Request returns 400 error!
+2021-09-01 02:53:41,851 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:54:11,778 Request returns 400 error!
+2021-09-01 02:54:11,778 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:55:14,847 Request returns 400 error!
+2021-09-01 02:55:14,847 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:55:35,408 Request returns 400 error!
+2021-09-01 02:55:35,408 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:56:07,047 Request returns 400 error!
+2021-09-01 02:56:07,047 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:57:15,798 Request returns 400 error!
+2021-09-01 02:57:15,799 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:57:45,833 Request returns 400 error!
+2021-09-01 02:57:45,834 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:58:09,141 Request returns 400 error!
+2021-09-01 02:58:09,141 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:58:31,330 Request returns 400 error!
+2021-09-01 02:58:31,331 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:59:23,745 Request returns 400 error!
+2021-09-01 02:59:23,745 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 02:59:48,569 Request returns 400 error!
+2021-09-01 02:59:48,569 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:00:35,305 Request returns 400 error!
+2021-09-01 03:00:35,306 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:01:26,998 Request returns 400 error!
+2021-09-01 03:01:26,998 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:01:57,642 Request returns 400 error!
+2021-09-01 03:01:57,642 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:02:44,733 Request returns 400 error!
+2021-09-01 03:02:44,733 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:03:00,126 Request returns 400 error!
+2021-09-01 03:03:00,126 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:03:34,133 Request returns 400 error!
+2021-09-01 03:03:34,133 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:03:50,270 Request returns 400 error!
+2021-09-01 03:03:50,270 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:04:19,298 Request returns 400 error!
+2021-09-01 03:04:19,299 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:05:25,250 Request returns 400 error!
+2021-09-01 03:05:25,251 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:05:49,550 Request returns 400 error!
+2021-09-01 03:05:49,550 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:07:17,536 Request returns 400 error!
+2021-09-01 03:07:17,536 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 03:07:48,945 Request returns 400 error!
+2021-09-01 03:07:48,946 ATTENTION!: `feedback_required`We restrict certain activity to protect our community.
+2021-09-01 12:51:31,609 Instabot Started
+2021-09-01 12:51:34,846 Logged-in successfully as 'cleavitt417'!
+2021-09-01 14:08:07,260 Request returns 400 error!
+2021-09-01 14:08:07,261 Instagram's error message: challenge_required
+2021-09-01 14:08:07,261 Instagram's error message: {}
+2021-09-01 14:08:10,617 Request returns 400 error!
+2021-09-01 14:08:10,617 Instagram's error message: challenge_required
+2021-09-01 14:08:10,618 Instagram's error message: {}
+2021-09-01 14:08:11,777 Request returns 400 error!
+2021-09-01 14:08:11,777 Instagram's error message: challenge_required
+2021-09-01 14:08:11,777 Instagram's error message: {}
+2021-09-01 14:08:12,733 Request returns 400 error!
+2021-09-01 14:08:12,733 Instagram's error message: challenge_required
+2021-09-01 14:08:12,733 Instagram's error message: {}
+2021-09-01 14:08:14,076 Request returns 400 error!
+2021-09-01 14:08:14,077 Instagram's error message: challenge_required
+2021-09-01 14:08:14,077 Instagram's error message: {}
+2021-09-01 14:08:15,404 Request returns 400 error!
+2021-09-01 14:08:15,404 Instagram's error message: challenge_required
+2021-09-01 14:08:15,404 Instagram's error message: {}
+2021-09-01 14:08:17,193 Request returns 400 error!
+2021-09-01 14:08:17,193 Instagram's error message: challenge_required
+2021-09-01 14:08:17,194 Instagram's error message: {}
+2021-09-01 14:08:18,200 Request returns 400 error!
+2021-09-01 14:08:18,201 Instagram's error message: challenge_required
+2021-09-01 14:08:18,201 Instagram's error message: {}
+2021-09-01 14:08:21,528 Request returns 400 error!
+2021-09-01 14:08:21,528 Instagram's error message: challenge_required
+2021-09-01 14:08:21,528 Instagram's error message: {}
+2021-09-01 14:08:22,510 Request returns 400 error!
+2021-09-01 14:08:22,510 Instagram's error message: challenge_required
+2021-09-01 14:08:22,510 Instagram's error message: {}
+2021-09-01 14:08:24,053 Request returns 400 error!
+2021-09-01 14:08:24,053 Instagram's error message: challenge_required
+2021-09-01 14:08:24,053 Instagram's error message: {}
+2021-09-01 14:08:27,323 Request returns 400 error!
+2021-09-01 14:08:27,323 Instagram's error message: challenge_required
+2021-09-01 14:08:27,327 Instagram's error message: {}
+2021-09-01 14:08:29,688 Request returns 400 error!
+2021-09-01 14:08:29,689 Instagram's error message: challenge_required
+2021-09-01 14:08:29,689 Instagram's error message: {}
+2021-09-01 14:08:30,550 Request returns 400 error!
+2021-09-01 14:08:30,551 Instagram's error message: challenge_required
+2021-09-01 14:08:30,551 Instagram's error message: {}
+2021-09-01 14:08:34,006 Request returns 400 error!
+2021-09-01 14:08:34,007 Instagram's error message: challenge_required
+2021-09-01 14:08:34,007 Instagram's error message: {}
+2021-09-01 14:08:36,014 Request returns 400 error!
+2021-09-01 14:08:36,015 Instagram's error message: challenge_required
+2021-09-01 14:08:36,015 Instagram's error message: {}
+2021-09-01 14:08:37,500 Request returns 400 error!
+2021-09-01 14:08:37,501 Instagram's error message: challenge_required
+2021-09-01 14:08:37,501 Instagram's error message: {}
+2021-09-01 14:08:40,279 Request returns 400 error!
+2021-09-01 14:08:40,280 Instagram's error message: challenge_required
+2021-09-01 14:08:40,280 Instagram's error message: {}
+2021-09-01 14:08:44,029 Request returns 400 error!
+2021-09-01 14:08:44,031 Instagram's error message: challenge_required
+2021-09-01 14:08:44,031 Instagram's error message: {}
+2021-09-01 14:08:46,652 Request returns 400 error!
+2021-09-01 14:08:46,653 Instagram's error message: challenge_required
+2021-09-01 14:08:46,653 Instagram's error message: {}
+2021-09-01 14:08:48,533 Request returns 400 error!
+2021-09-01 14:08:48,533 Instagram's error message: challenge_required
+2021-09-01 14:08:48,533 Instagram's error message: {}
+2021-09-01 14:08:52,254 Request returns 400 error!
+2021-09-01 14:08:52,254 Instagram's error message: challenge_required
+2021-09-01 14:08:52,255 Instagram's error message: {}
+2021-09-01 14:08:53,168 Request returns 400 error!
+2021-09-01 14:08:53,169 Instagram's error message: challenge_required
+2021-09-01 14:08:53,169 Instagram's error message: {}
+2021-09-01 14:08:54,586 Request returns 400 error!
+2021-09-01 14:08:54,586 Instagram's error message: challenge_required
+2021-09-01 14:08:54,586 Instagram's error message: {}
+2021-09-01 14:08:56,556 Request returns 400 error!
+2021-09-01 14:08:56,556 Instagram's error message: challenge_required
+2021-09-01 14:08:56,556 Instagram's error message: {}
+2021-09-01 14:08:58,855 Request returns 400 error!
+2021-09-01 14:08:58,856 Instagram's error message: challenge_required
+2021-09-01 14:08:58,856 Instagram's error message: {}
+2021-09-01 14:09:01,153 Request returns 400 error!
+2021-09-01 14:09:01,153 Instagram's error message: challenge_required
+2021-09-01 14:09:01,153 Instagram's error message: {}
+2021-09-01 14:09:02,700 Request returns 400 error!
+2021-09-01 14:09:02,700 Instagram's error message: challenge_required
+2021-09-01 14:09:02,701 Instagram's error message: {}
+2021-09-01 14:09:04,958 Request returns 400 error!
+2021-09-01 14:09:04,958 Instagram's error message: challenge_required
+2021-09-01 14:09:04,959 Instagram's error message: {}
+2021-09-01 14:09:06,002 Request returns 400 error!
+2021-09-01 14:09:06,002 Instagram's error message: challenge_required
+2021-09-01 14:09:06,002 Instagram's error message: {}
+2021-09-01 14:09:08,862 Request returns 400 error!
+2021-09-01 14:09:08,863 Instagram's error message: challenge_required
+2021-09-01 14:09:08,863 Instagram's error message: {}
+2021-09-01 14:09:12,384 Request returns 400 error!
+2021-09-01 14:09:12,385 Instagram's error message: challenge_required
+2021-09-01 14:09:12,385 Instagram's error message: {}
+2021-09-01 14:09:14,715 Request returns 400 error!
+2021-09-01 14:09:14,715 Instagram's error message: challenge_required
+2021-09-01 14:09:14,715 Instagram's error message: {}
+2021-09-01 14:09:17,013 Request returns 400 error!
+2021-09-01 14:09:17,013 Instagram's error message: challenge_required
+2021-09-01 14:09:17,013 Instagram's error message: {}
+2021-09-01 14:09:20,567 Request returns 400 error!
+2021-09-01 14:09:20,567 Instagram's error message: challenge_required
+2021-09-01 14:09:20,567 Instagram's error message: {}
+2021-09-01 14:09:23,117 Request returns 400 error!
+2021-09-01 14:09:23,117 Instagram's error message: challenge_required
+2021-09-01 14:09:23,117 Instagram's error message: {}
+2021-09-01 14:09:24,084 Request returns 400 error!
+2021-09-01 14:09:24,085 Instagram's error message: challenge_required
+2021-09-01 14:09:24,085 Instagram's error message: {}
+2021-09-01 14:09:27,587 Request returns 400 error!
+2021-09-01 14:09:27,587 Instagram's error message: challenge_required
+2021-09-01 14:09:27,587 Instagram's error message: {}
+2021-09-01 14:09:29,152 Request returns 400 error!
+2021-09-01 14:09:29,152 Instagram's error message: challenge_required
+2021-09-01 14:09:29,152 Instagram's error message: {}
+2021-09-01 14:09:31,683 Request returns 400 error!
+2021-09-01 14:09:31,683 Instagram's error message: challenge_required
+2021-09-01 14:09:31,683 Instagram's error message: {}
+2021-09-01 14:09:34,064 Request returns 400 error!
+2021-09-01 14:09:34,064 Instagram's error message: challenge_required
+2021-09-01 14:09:34,064 Instagram's error message: {}
+2021-09-01 14:09:37,615 Request returns 400 error!
+2021-09-01 14:09:37,615 Instagram's error message: challenge_required
+2021-09-01 14:09:37,615 Instagram's error message: {}
+2021-09-01 14:09:40,000 Request returns 400 error!
+2021-09-01 14:09:40,000 Instagram's error message: challenge_required
+2021-09-01 14:09:40,000 Instagram's error message: {}
+2021-09-01 14:09:42,218 Request returns 400 error!
+2021-09-01 14:09:42,218 Instagram's error message: challenge_required
+2021-09-01 14:09:42,218 Instagram's error message: {}
+2021-09-01 14:09:45,558 Request returns 400 error!
+2021-09-01 14:09:45,558 Instagram's error message: challenge_required
+2021-09-01 14:09:45,558 Instagram's error message: {}
+2021-09-01 14:09:48,066 Request returns 400 error!
+2021-09-01 14:09:48,066 Instagram's error message: challenge_required
+2021-09-01 14:09:48,066 Instagram's error message: {}
+2021-09-01 14:09:49,899 Request returns 400 error!
+2021-09-01 14:09:49,899 Instagram's error message: challenge_required
+2021-09-01 14:09:49,904 Instagram's error message: {}
+2021-09-01 14:09:53,076 Request returns 400 error!
+2021-09-01 14:09:53,076 Instagram's error message: challenge_required
+2021-09-01 14:09:53,077 Instagram's error message: {}
+2021-09-01 14:09:54,884 Request returns 400 error!
+2021-09-01 14:09:54,884 Instagram's error message: challenge_required
+2021-09-01 14:09:54,885 Instagram's error message: {}
+2021-09-01 14:09:58,554 Request returns 400 error!
+2021-09-01 14:09:58,554 Instagram's error message: challenge_required
+2021-09-01 14:09:58,554 Instagram's error message: {}
+2021-09-01 14:10:00,284 Request returns 400 error!
+2021-09-01 14:10:00,284 Instagram's error message: challenge_required
+2021-09-01 14:10:00,284 Instagram's error message: {}
+2021-09-01 14:10:03,383 Request returns 400 error!
+2021-09-01 14:10:03,383 Instagram's error message: challenge_required
+2021-09-01 14:10:03,383 Instagram's error message: {}
+2021-09-01 14:10:05,140 Request returns 400 error!
+2021-09-01 14:10:05,141 Instagram's error message: challenge_required
+2021-09-01 14:10:05,141 Instagram's error message: {}
+2021-09-01 14:10:06,347 Request returns 400 error!
+2021-09-01 14:10:06,348 Instagram's error message: challenge_required
+2021-09-01 14:10:06,348 Instagram's error message: {}
+2021-09-01 14:10:08,499 Request returns 400 error!
+2021-09-01 14:10:08,499 Instagram's error message: challenge_required
+2021-09-01 14:10:08,499 Instagram's error message: {}
+2021-09-01 14:10:11,351 Request returns 400 error!
+2021-09-01 14:10:11,351 Instagram's error message: challenge_required
+2021-09-01 14:10:11,356 Instagram's error message: {}
+2021-09-01 14:10:13,128 Request returns 400 error!
+2021-09-01 14:10:13,128 Instagram's error message: challenge_required
+2021-09-01 14:10:13,128 Instagram's error message: {}
+2021-09-01 14:10:16,720 Request returns 400 error!
+2021-09-01 14:10:16,720 Instagram's error message: challenge_required
+2021-09-01 14:10:16,720 Instagram's error message: {}
+2021-09-01 14:10:19,648 Request returns 400 error!
+2021-09-01 14:10:19,648 Instagram's error message: challenge_required
+2021-09-01 14:10:19,648 Instagram's error message: {}
+2021-09-01 14:10:23,540 Bot stopped. Worked: 12:09:08.052883
+2021-09-01 14:10:23,540 Total follows: 244/3840
+2021-09-01 14:10:23,541 Total requests: 3373

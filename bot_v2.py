@@ -9,11 +9,12 @@ from datetime import datetime
 accounts = [];
 accCount = 0;
 
-myAccount = "not_nang";
-myPassword = "password"
+myAccount = "cleavitt417";
+myPassword = "$n&wM@n55"
  #fill this out with a starting page
-accounts.append("meme_greatness1");
-accounts.append("crispi_memes");
+accounts.append("golfbettertucson");
+accounts.append("thehackernews");
+accounts.append("cybersafe.news");
 
 class IGbot(object):
 
@@ -102,7 +103,7 @@ class IGbot(object):
 			name = user_info['full_name'];
 			followers = user_info['follower_count'];
 			following = user_info['following_count'];
-			if "meme" in bio.lower() or "meme" in name.lower() or "meme" in username.lower():
+			if "golf" in bio.lower() or "hs" in name.lower() or "golf" in username.lower():
 				if followers > 2500 and followers < 10000:
 					if following/followers < 4:
 						accounts.append(username);

@@ -51,7 +51,7 @@ def filter(bot, amt):
 		name = user_info['full_name'];
 		followers = user_info['follower_count'];
 		following = user_info['following_count'];
-		if "meme" in bio.lower() or "meme" in name.lower() or "meme" in username.lower()	:
+		if "golf" in bio.lower() or "golf" in name.lower() or "golf" in username.lower()	:
 			if followers > 1000 and followers < 9000:
 				if following/followers < 1.2:
 					addToAcc.append(username);
@@ -63,7 +63,7 @@ bot = Bot(filter_users = True, max_following_to_followers_ratio = 100, max_follo
 bot.login(username = "postleg__", password = "");
 
 accounts = [];
-accounts.append("moisty_meme_bros"); #automate this part!
+accounts.append("titlest"); #automate this part!
 
 amt = 120;
 

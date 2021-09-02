@@ -9,12 +9,12 @@ from datetime import datetime
 accounts = [];
 accCount = 0;
 
-myAccount = "not_nang";
-myPassword = "oreo12345";
+myAccount = "cleavitt417";
+myPassword = "$n%wM@n55";
  #fill this out with a starting page
 #accounts.append("masakameme");
-accounts.append("swellygotmemes");
-accounts.append("masakameme");
+accounts.append("titlest");
+accounts.append("pgatour");
 
 
 bot = Bot(filter_users = True, follow_delay = 30, unfollow_delay = 30, max_follows_per_day = 3840, max_unfollows_per_day = 3840);
